@@ -1,0 +1,4 @@
+# 忽略文件夹
+data/
+dataset_raw/
+results/
