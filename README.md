@@ -21,7 +21,7 @@ SVC-Fusion Linux版本的整合包，支持启动前端界面。项目是从服�
 
 1. 克隆本项目：
    ```bash
-   git clone https://github.com/your-repo/svc-fusion-linux.git
+   git clone https://github.com/Kuugo2002/svc-fusion-linux.git
    ```
 
 2. 下载Python环境和预训练模型，将env.7z解压，放到同一个目录内。
