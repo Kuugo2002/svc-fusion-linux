@@ -31,7 +31,7 @@ SVC-Fusion Linux版本的整合包，支持启动前端界面。项目是从服�
    ./env/bin/python launcher.py
    ```
 ##  通过colab部署
-1. 在google drive的根目录创建dataset_raw，dataset_raw，results这三个文件夹
+1. 在google drive的根目录创建dataset_raw，dataset_raw，results，exp这四个文件夹
 2. 按colab.ipynb运行即可
 
 ## 🙏 致谢
