@@ -12,10 +12,10 @@ SVC-Fusion Linux版本的整合包，支持启动前端界面。项目是从服�
 
 ##  资源下载
 
-| 资源类型 | 下载链接1 |
-|----------|----------|
-| Python环境 | [HuggingFace](https://huggingface.co/Kuugo/svc-fusion-linux-model) |
-| 预训练模型 | [HuggingFace](https://huggingface.co/Kuugo/svc-fusion-linux-model) |
+| 资源类型 | 下载链接1 | 下载链接2 |
+|----------|----------|----------|
+| Python环境 | [HuggingFace](https://huggingface.co/Kuugo/svc-fusion-linux-model) | [Modelscope](https://www.modelscope.cn/models/KuugoRen/svc-fusion-linux-model)|
+| 预训练模型 | [HuggingFace](https://huggingface.co/Kuugo/svc-fusion-linux-model) | [Modelscope](https://www.modelscope.cn/models/KuugoRen/svc-fusion-linux-model)|
 
 ## 快速开始
 
@@ -28,7 +28,7 @@ SVC-Fusion Linux版本的整合包，支持启动前端界面。项目是从服�
 
 3. 启动项目：
    ```bash
-   ./env/bin/python launch.py
+   ./env/bin/python launcher.py
    ```
 ##  通过colab部署
 1. 在google drive的根目录创建dataset_raw，dataset_raw，results这三个文件夹
