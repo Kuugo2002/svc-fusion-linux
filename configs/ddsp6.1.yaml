@@ -38,7 +38,7 @@ spks:
 - default
 train:
   amp_dtype: fp32
-  batch_size: 48
+  batch_size: 40 
   cache_all_data: false
   cache_device: cpu
   cache_fp16: true
