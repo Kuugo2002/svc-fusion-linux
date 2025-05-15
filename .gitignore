@@ -2,3 +2,7 @@
 data/
 dataset_raw/
 results/
+env/
+other_weights/
+pretrain/
+pretrained/
